@@ -1,0 +1,22 @@
+Order ID,Amount,Quantity,Category,Sub-Category,PaymentMode
+B-25681,1096,7,Electronics,Electronic Games,COD
+B-26055,5729,14,Furniture,Chairs,EMI
+B-25955,2927,8,Furniture,Bookcases,EMI
+B-26093,2847,8,Electronics,Printers,Credit Card
+B-25602,2617,4,Electronics,Phones,Credit Card
+B-25881,2244,4,Clothing,Trousers,Credit Card
+B-25696,275,4,Clothing,Saree,COD
+B-25687,387,5,Clothing,Saree,UPI
+B-25643,50,2,Clothing,Hankerchief,UPI
+B-25851,135,5,Clothing,Kurti,COD
+B-25703,231,9,Clothing,Hankerchief,COD
+B-25887,2125,6,Electronics,Printers,EMI
+B-25923,3873,6,Electronics,Phones,Credit Card
+B-25756,729,5,Furniture,Bookcases,UPI
+B-25761,2188,5,Furniture,Bookcases,Credit Card
+B-25655,6,1,Clothing,Hankerchief,UPI
+B-25786,1854,5,Furniture,Bookcases,Credit Card
+B-26095,6,1,Clothing,Kurti,UPI
+B-25853,2093,5,Furniture,Chairs,Credit Card
+B-25735,7,2,Clothing,Skirt,UPI
+B-25910,1622,5,Furniture,Tables,Credit Card
